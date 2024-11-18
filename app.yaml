@@ -1,0 +1,3 @@
+runtime: python
+env: standard
+entrypoint: python main.py
